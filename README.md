@@ -16,12 +16,12 @@ Unlike other tools, it does **not rely on a browser or headless engines** — ma
 
 ## 📦 Installation
 ```bash
-npm install snap-css
+npm install blitz-css
 ```
 
 or 
 ```bash
-yarn add snap-css
+yarn add blitz-css
 ```
 
 ---
