@@ -1,0 +1,30 @@
+{
+  "name": "blitz-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "critical css",
+    "css optimization",
+    "above the fold",
+    "performance",
+    "web performance",
+    "page speed",
+    "render blocking",
+    "no browser",
+    "fast",
+    "frontend",
+    "optimization",
+    "html css"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "css-tree": "^3.1.0",
+    "jsdom": "^26.1.0"
+  }
+}
