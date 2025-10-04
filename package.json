@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamza-mairaj/blitz-css"
+  },
   "keywords": [
     "critical css",
     "css optimization",
@@ -20,9 +24,9 @@
     "optimization",
     "html css"
   ],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Hamza Mairaj",
+  "license": "MIT",
+  "description": "Fastest critical CSS generation library.",
   "dependencies": {
     "css-tree": "^3.1.0",
     "jsdom": "^26.1.0"
